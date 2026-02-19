@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "ZCOdex | Ingeniería de Software Agéntica",
   description: "Agencia de Coding IA para empresas B2B. Modernización de Legados, Flujos Agénticos y Automatización Inteligente en LatAm.",
   icons: {
-    icon: "/ZCO-logo.jpg",
+    icon: "/favicon.ico",
     apple: "/ZCO-logo.jpg",
   },
 };
