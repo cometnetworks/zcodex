@@ -1,7 +1,6 @@
 import { notFound } from "next/navigation";
 import { soluciones } from "@/lib/soluciones";
 
-export const runtime = 'edge';
 import { Navbar } from "@/components/Navbar";
 import { ContactForm } from "@/components/ContactForm";
 import Link from "next/link";
